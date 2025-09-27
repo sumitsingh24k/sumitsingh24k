@@ -1,8 +1,6 @@
 <h1 align="left">Hiii im sumit  full stack devloper..</h1>
 
 ###
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div align="center">
   <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJhMHJqNjhoZXJvaWswdTJ3Nnh5c2NoMHVxNjlyY2FxM3hoaDZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwlljYjZ9ZgEETTsP6/giphy.gif"  />
@@ -11,8 +9,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats-rouge-three-38.vercel.app/api?username=sumitsingh24k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-rouge-three-38.vercel.app/api/top-langs?username=sumitsingh24k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-rouge-three-38.vercel.app//api?username=sumitsingh24k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-rouge-three-38.vercel.app//api/top-langs?username=sumitsingh24k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
