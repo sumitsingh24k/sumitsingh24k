@@ -4,9 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2025 - To: 27 September 2025
+From: 21 September 2025 - To: 28 September 2025
 
-No activity tracked
+YAML       20 mins         ████████████████▓░░░░░░░░   66.47 %
+Markdown   9 mins          ████████░░░░░░░░░░░░░░░░░   32.18 %
+Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
