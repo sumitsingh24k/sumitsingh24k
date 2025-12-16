@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2025 - To: 14 December 2025
+From: 08 December 2025 - To: 15 December 2025
 
-JavaScript   4 hrs 52 mins   █████████████████▓░░░░░░░   70.67 %
-JSON         1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+JavaScript   4 hrs 44 mins   █████████████████▓░░░░░░░   70.10 %
+JSON         1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
