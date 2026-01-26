@@ -23,6 +23,8 @@ No activity tracked
 <img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
 
 ###
+![Leetcode Stats](https://leetcard.jacoblin.cool/sumit24k?font=patrick_hand)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
