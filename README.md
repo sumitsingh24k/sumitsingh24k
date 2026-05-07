@@ -4,9 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2026 - To: 05 May 2026
+From: 29 April 2026 - To: 06 May 2026
 
-No activity tracked
+TypeScript   1 hr 32 mins          ███████████████████▓░░░░░   78.64 %
+CSS          13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+JSON         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Other        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
