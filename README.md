@@ -4,10 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2026 - To: 03 June 2026
+From: 28 May 2026 - To: 04 June 2026
 
-Bash         1 min                 ██████████████████░░░░░░░   72.54 %
-TypeScript   0 secs                ███████░░░░░░░░░░░░░░░░░░   27.46 %
+Markdown     1 hr 12 mins          ██████████▓░░░░░░░░░░░░░░   43.10 %
+TypeScript   54 mins               ████████░░░░░░░░░░░░░░░░░   32.37 %
+TOML         16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Bash         12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+TSConfig     6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
