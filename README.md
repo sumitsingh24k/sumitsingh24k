@@ -1,4 +1,4 @@
-<h1 align="left">Hiii im sumit  full stack devloper..</h1>
+<h1 align="left">sup gang? — sumit !!  ..</h1>
 
 ###
 <!--START_SECTION:waka-->
