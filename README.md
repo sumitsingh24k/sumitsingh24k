@@ -1,4 +1,4 @@
-<h1 align="left">sup gang? — sumit !!  ..</h1>
+<h1 align="left">sup gang — just another dev figuring shit out </h1>
 
 ###
 <!--START_SECTION:waka-->
