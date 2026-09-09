@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 01 September 2026 - To: 08 September 2026
 
-JavaScript   4 hrs 7 mins          ███████████████░░░░░░░░░░   60.54 %
-YAML         1 hr 6 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-Other        43 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+JavaScript   7 hrs 32 mins         █████████████████▓░░░░░░░   70.89 %
+YAML         1 hr 12 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Other        46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
